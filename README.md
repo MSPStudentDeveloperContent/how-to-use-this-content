@@ -1,4 +1,4 @@
-How to use this Content in github.com/mspconent
+How to Use These Walkthroughs
 =======================
 
 ### The README.md files
