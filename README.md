@@ -3,7 +3,9 @@ How to Use These Walkthroughs
 
 ### Waht is a Walkthrough
 
-Its right in its name! A Walkthrough is something you use to *walk* someone *through* something interesting. Each of these repositories contains a guide that will give you what you need to do to walk other students through something fun and cool. While you're at it you'll learn a thing or two that you can use to hack or even land you a sweet gig in the tech industry!
+Its right in its name! A Walkthrough is something you use to *walk* someone *through* something interesting. Each of these repositories contains a guide that will give you what you need to do to walk other students through something fun and cool. 
+
+While you're at it you'll learn a thing or two that you can use to hack or even land you a sweet gig in the tech industry!
 
 ### The README.md files
 
