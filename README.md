@@ -24,7 +24,11 @@ Its easy to fork the repository. First copy the **clone URL** link to your clipb
 
 ![](ScreenShots/ss2.png)
 
-On a Mac, just use spotlight search to open up '**Terminal**'. On Windows, just search for **Git Shell**.
+On a Mac, just use spotlight search to open up '**Terminal**':
+
+![](ScreenShots/ss6.png)
+
+On Windows, just search for **Git Shell**.
 
 ![](ScreenShots/ss4.png)
 
@@ -55,6 +59,10 @@ start .
 This will leave you with the folder open under your file explorer:
 
 ![](ScreenShots/ss5.png)
+
+Or Finder:
+
+![](ScreenShots/ss7.png)
 
 Follow the instructions in the README.md file within the repository and get hacking!
 
