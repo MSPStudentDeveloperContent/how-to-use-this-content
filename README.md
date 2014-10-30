@@ -1,7 +1,7 @@
 How to Use These Walkthroughs
 =======================
 
-### Waht is a Walkthrough
+### What is a Walkthrough
 
 Its right in its name! A Walkthrough is something you use to *walk* someone *through* something interesting. Each of these repositories contains a guide that will give you what you need to do to walk other students through something fun and cool. 
 
